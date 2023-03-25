@@ -1,0 +1,9 @@
+This is a white background removal tool
+
+To use it follow the example:
+
+What's the image you want to remove the background from? H:\Image\logo.png
+Select the threshold you want (0-255): 200
+What's the name you want for the image after the background removal? H:\Image\logo_out.png
+
+This example gets the image logo.png and removes the white background to the output image logo_out.png
